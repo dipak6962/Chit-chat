@@ -13,7 +13,7 @@ function App() {
         field1: inputValue1,
         field2: inputValue2,
       });
-      alert("Document written to Database");
+      // alert("Document written to Database");
   };
 
   return (
